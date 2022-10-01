@@ -10,7 +10,7 @@ estos servicios web RESTful realizaran operaciones CRUD con MySQL.
 
 Imagen de la relación a realizar en BD:
 
-![Image text](https://github.com/yadevom/relacion_bd.png)
+![Image text](https://github.com/yadevom/apirest_party_relaciones/blob/main/relacion_bd.png)
 
 ### Dependencias utilizadas para App
 - MySQL Drive
